@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Microsoft SDKs\Windows\v10.0]
+"InstallationFolder"="C:\\Program Files (x86)\\Windows Kits\\10\\"
+"ProductName"="Microsoft Windows SDK for Windows 10.0.22621"
+"ProductVersion"="10.0.22621"
+
